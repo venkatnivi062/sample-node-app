@@ -1,0 +1,23 @@
+{
+
+  "name": "nodejs-docker-sample",
+
+  "version": "1.0.0",
+
+  "description": "Sample Node.js app with Docker multi-stage build",
+
+  "main": "server.js",
+
+  "scripts": {
+
+    "start": "node server.js"
+
+  },
+
+  "dependencies": {
+
+    "express": "^4.18.2"
+
+  }
+
+}
