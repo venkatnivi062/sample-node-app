@@ -75,7 +75,3 @@ jobs:
     - name: Push Docker image
 
       run: docker push ${{ secrets.DOCKERHUB_USERNAME }}/nodejs-docker-sample:latest
-
-
-Who can see your messages?
-to:
